@@ -643,7 +643,7 @@ The limited option set includes:
 - `offset`:     `0`,
 - `size`:       `-1`,
 - `direction`:   `dump`,
-- `ignoreType`:   ``
+- `ignoreType`:   `alias`
 - `includeType`:   ``
 - `prefix`:   `'''`
 - `suffix`:   `''`
